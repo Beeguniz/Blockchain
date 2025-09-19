@@ -1,0 +1,19 @@
+{
+  "name": "ipfs-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web3-storage/w3up-client": "^17.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.10",
+    "pkg": "^5.8.1"
+  }
+}
